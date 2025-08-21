@@ -8,7 +8,7 @@ I'm using this space to track my progress, revisit tricky problems, and improve 
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **`XX`**
+- ✅ Total Problems Solved: **`23`**
 - 🟢 Easy: `11`
 - 🟡 Medium: `10`
 - 🔴 Hard: `2`
@@ -26,11 +26,6 @@ I'm using this space to track my progress, revisit tricky problems, and improve 
 - ✅ Dynamic Programming
 - ✅ Graphs & Trees
 - ✅ Greedy, Heap, Stack, Queue, and more...
-
----
-```
-
-> File names are usually in kebab-case and prefixed by problem title.
 
 ---
 
@@ -68,6 +63,6 @@ This is a personal repo, but feel free to fork it if you'd like to:
 ---
 
 > “Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.” – Malcolm Gladwell
-```
+
 
 Sadece LeetCode kullanıcı adını ve çözümlerini hangi dillerde yazdığını söylersen bu dosyayı sana özel bir hale getireyim mi?
