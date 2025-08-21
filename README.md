@@ -57,7 +57,7 @@ This is a personal repo, but feel free to fork it if you'd like to:
 ## 🚀 Let’s Connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/berfin-s%C3%BCnnetcio%C4%9Flu-4ab9681b3/)  
-💻 [My Portfolio](https://berfin4615.github.io/Portfolio/)
+💻 [My Portfolio](https://berfin4615.github.io/Portfolio/) 
 🎯 [LeetCode Profile](https://leetcode.com/user4150sX)
 
 ---
