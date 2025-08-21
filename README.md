@@ -63,6 +63,3 @@ This is a personal repo, but feel free to fork it if you'd like to:
 ---
 
 > “Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.” – Malcolm Gladwell
-
-
-Sadece LeetCode kullanıcı adını ve çözümlerini hangi dillerde yazdığını söylersen bu dosyayı sana özel bir hale getireyim mi?
