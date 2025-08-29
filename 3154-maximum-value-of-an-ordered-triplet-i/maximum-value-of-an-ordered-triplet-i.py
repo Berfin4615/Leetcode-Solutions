@@ -9,5 +9,4 @@ class Solution:
                         current = (nums[i] - nums[j]) * nums[k]
                         if current > biggest:
                             biggest = current
-                            print(i, j, k)
         return biggest
