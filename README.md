@@ -8,9 +8,9 @@ I'm using this space to track my progress, revisit tricky problems, and improve 
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **`40`**
-- 🟢 Easy: `19`
-- 🟡 Medium: `18`
+- ✅ Total Problems Solved: **`42`**
+- 🟢 Easy: `20`
+- 🟡 Medium: `19`
 - 🔴 Hard: `3`
 - 🚧 Language(s): `JavaScript`, `Python`
 
